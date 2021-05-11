@@ -10,6 +10,8 @@ The goal is to automate the top 5 critical features that were identified during 
 - Votes in Model Details page
 - Profile
 - Navigation bar
+
+<br /><br />
 They were prioritiesd based on the follwing factors.
 - that has highs risks and importance
 - that has has major bugs but frequently used
